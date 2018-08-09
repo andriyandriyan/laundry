@@ -1,0 +1,2 @@
+webpackJsonp([2],{1012:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a=t(0),r=t.n(a),u=function(){return r.a.createElement("h1",null,"Dashboard")};n.default=u}});
+//# sourceMappingURL=2.a2873876.chunk.js.map
